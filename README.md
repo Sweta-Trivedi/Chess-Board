@@ -1,2 +1,4 @@
 # Chess-Board
-It is a square form board in which there are equal rows and columns (8*8) with alternate intersections marked as black background.It highlights its diagonal by clicking on any of its block.
+A chess board created using html5, css3 and vanilla javascript, where if you click on any of the blocks, it highlights its diagonals. 
+
+
