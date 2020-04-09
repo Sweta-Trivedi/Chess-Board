@@ -6,3 +6,17 @@ Chess board : It is a square form based in which there are equal rows and column
 <img src="/plainChessBoard.PNG" width="500">
 
 <img src="/chessboard.PNG" width="500">
+
+<h1>Code Structure</h1>
+
+Source files are placed in the chessboard directory. It contains :
+
+* <b>index.html</b> : Shows the chessboard and highlights the diagonal cells as red once clicked on a block.
+ <br/>
+* <b>script.js</b> : Initializes and highlights the cells
+  <br/>
+* <b>script.css</b> : styles the checkboard
+
+<h1>Builing</h1>
+
+In order to run the application, open index.html in the chessboard directory.
