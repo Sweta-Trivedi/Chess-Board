@@ -1,7 +1,7 @@
 # Chess-Board
 A chess board created using html5, css3 and vanilla javascript, where if you click on any of the blocks, it highlights its diagonals. 
 
-Chess board : It is a square form based in which there are equal rows and columns marked (8*8) with alternate intersections marksed as black background
+Chess board : It is a square form based in which there are equal rows and columns marked (8*8) with alternate intersections marked as black background
 
 <img src="/plainChessBoard.PNG" width="500">
 
@@ -11,10 +11,10 @@ Chess board : It is a square form based in which there are equal rows and column
 
 Source files are placed in the chessboard directory. It contains :
 
-* <b>index.html</b> : Shows the chessboard and highlights the diagonal cells as red once clicked on a block.
- <br/>
+* <b>index.html</b> : Shows the chessboard and highlights the diagonal cells as red once clicked on a block
+
 * <b>script.js</b> : Initializes and highlights the cells
-  <br/>
+  
 * <b>script.css</b> : styles the checkboard
 
 <h1>Builing</h1>
