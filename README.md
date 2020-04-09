@@ -13,9 +13,9 @@ Source files are placed in the chessboard directory. It contains :
 
 * <b>index.html</b> : Shows the chessboard and highlights the diagonal cells as red once clicked on a block
 
-* <b>script.js</b> : Initializes and highlights the cells
+* <b>scripts.js</b> : Initializes and highlights the cells
   
-* <b>script.css</b> : styles the checkboard
+* <b>styles.css</b> : styles the checkboard
 
 <h1>Builing</h1>
 
